@@ -65,10 +65,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ergon73&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ergon73&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<a href="https://github.com/ergon73">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ergon73&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergon73&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
 
 </div>
+
+> 📝 Статистика обновляется автоматически каждые 24 часа
 
 ---
 
