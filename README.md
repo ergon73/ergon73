@@ -17,13 +17,21 @@
 
 ---
 
-### 🚀 Активные проекты
+### 🚀 Избранные проекты
 
+<div align="center">
+
+[![VPS AutoDeploy FastAPI](https://github-readme-stats.vercel.app/api/pin/?username=ergon73&repo=vps-autodeploy-fastapi&theme=github_dark&hide_border=true)](https://github.com/ergon73/vps-autodeploy-fastapi)
+[![Grafana Loki Stack](https://github-readme-stats.vercel.app/api/pin/?username=ergon73&repo=grafana-loki-stack&theme=github_dark&hide_border=true)](https://github.com/ergon73/grafana-loki-stack)
+[![Multi-LLM Data Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=ergon73&repo=multi-llm-data-analyzer&theme=github_dark&hide_border=true)](https://github.com/ergon73/multi-llm-data-analyzer)
+
+</div>
+
+**Другие активные проекты:**
 - `VoiceGPT-TattooBot` — голосовой Telegram-ассистент для студии тату (Voiceflow + Make + ElevenLabs)
 - `Midjourney Prompter` — автосохранение и сортировка AI-картинок по папкам
 - `OCR-AutoCorrector` — облачное распознавание текста с пост-обработкой (Azure + GPT)
 - `LLM Playground` — эксперименты с локальными моделями (Gemma, Mistral) и их посткоррекцией
-- `Video-to-Markdown` — автоматическая транскрибация видеоуроков с OCR и LLM-коррекцией в Markdown-файлы
 
 ---
 
@@ -48,6 +56,19 @@
 - 🔍 Исследую OCR + постобработку с использованием LLM
 - 🧾 Создаю инструмент для транскрибации и анализа видеоуроков
 - 📚 Работаю над книгой "Код и Коан: Мудрость Дзен в Мире IT"
+
+---
+
+---
+
+### 📊 GitHub Статистика
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ergon73&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ergon73&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
