@@ -70,9 +70,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergon73&layout=compact&langs_count=7&theme=tokyonight"/>
 </a>
 
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ergon73&theme=tokyonight)
+
 </div>
 
-> 📝 Статистика обновляется автоматически каждые 24 часа
+> 📝 Статистика обновляется автоматически каждые 24 часа  
+> ⚠️ Если статистика не загружается, попробуйте обновить страницу через минуту
 
 ---
 
