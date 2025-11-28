@@ -1,5 +1,13 @@
 ## 👋 Привет! Я Георгий Белянин
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ergon73&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/ergon73?label=Followers&style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/ergon73?label=Stars&style=flat-square&color=yellow)
+
+</div>
+
 🧠 **R&D инженер** по высоконагруженным серверным и сетевым платформам уровня enterprise.  
 🛠 Специализация — сетевые технологии, инженерная инфраструктура ЦОД, автоматизация и оптимизация.  
 ⚙️ Экспериментирую с нейросетями, LLM и no-code-интеграциями для реальных задач.
