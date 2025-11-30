@@ -5,9 +5,9 @@
 ### R&D Engineer | DevOps | AI Integration Specialist
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ergon73&color=brightgreen&style=flat-square)](https://github.com/ergon73)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/georgy-belyanin)
 [![Telegram](https://img.shields.io/badge/Telegram-@Ergon73-2CA5E0?style=flat-square&logo=telegram)](https://t.me/Ergon73)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:georgy.belyanin@gmail.com)
 
 **🎯 Open to:** Full-time • Remote • Hybrid • Consulting • Collaboration
 
@@ -238,8 +238,8 @@ LLM-powered solutions, prompt engineering, automation
 ### 📬 Get In Touch
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Ergon73-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Ergon73)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/georgy-belyanin)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:georgy.belyanin@gmail.com)
 
 **⚡ Response time:** Usually within 24 hours
 
