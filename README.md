@@ -148,8 +148,6 @@ LLM-powered solutions, prompt engineering, automation
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### Languages & Frameworks
