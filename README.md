@@ -253,6 +253,6 @@ LLM-powered solutions, prompt engineering, automation
 
 **Built with ❤️ and lots of ☕**
 
-*Last updated: November 2024*
+*Last updated: November 2025*
 
 </div>
