@@ -36,6 +36,18 @@ const expertise = {
 
 ---
 
+## Вайб-кодинг и AI-интеграции
+
+Развиваю направление автоматизации для продавцов маркетплейсов: подготовка данных и черновиков текстов карточек из таблицы. Опираюсь на инженерный опыт, Python, API и проверку результата. Клиентских кейсов по карточкам пока нет; ниже — учебные проекты, показывающие смежные навыки.
+
+- [Mini-CRM и Google Drive/Sheets](https://github.com/ergon73/mini-crm-google-reports) — учёт и отчёты, интеграция с таблицами.
+- [Бот по документам](https://github.com/ergon73/haystack-rag-docling-bot) — Python и RAG для вопросов по загруженным материалам.
+- [CourierFlow](https://github.com/ergon73/fgip07-courierflow) — учебный трекер заказов с [демо](https://ergon73.github.io/fgip07-courierflow/).
+
+Завершённое обучение Zerocoder: «Профессия Вайбкодер» — 144 ч (2026); Python с ChatGPT — 138 ч (2026); «Промпт-инжиниринг» — 194 ч (2025); «Автоматизация на n8n» — 75 ч (2026).
+
+Обсудить задачу: [Telegram @ergon73](https://t.me/ergon73) · [georgy.belyanin@gmail.com](mailto:georgy.belyanin@gmail.com).
+
 ## 🏆 Featured Projects
 
 <table>
