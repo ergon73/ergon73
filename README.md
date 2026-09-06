@@ -121,7 +121,7 @@ const expertise = {
 </tr>
 </table>
 
-[📁 View all 64 repositories →](https://github.com/ergon73?tab=repositories)
+[📁 View all repositories →](https://github.com/ergon73?tab=repositories)
 
 ---
 
@@ -211,7 +211,7 @@ LLM-powered solutions, prompt engineering, automation
 
 ### 📚 Continuous Learning
 - ✅ Prompt Engineering 2.0 (Zerocoder University)
-- 🔄 Professional Vibe Coder Course (In Progress)
+- ✅ Professional Vibe Coder Course (Completed March 2026)
 - 📖 "Code & Koan: Zen Wisdom in IT" (Book - In Progress)
 - 🎓 Kubernetes CKA Certification (Planned)
 
@@ -265,6 +265,6 @@ LLM-powered solutions, prompt engineering, automation
 
 **Built with ❤️ and lots of ☕**
 
-*Last updated: November 2025*
+*Last updated: September 2026*
 
 </div>
