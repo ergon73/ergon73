@@ -44,7 +44,7 @@ const expertise = {
 - [Бот по документам](https://github.com/ergon73/haystack-rag-docling-bot) — Python и RAG для вопросов по загруженным материалам.
 - [CourierFlow](https://github.com/ergon73/fgip07-courierflow) — учебный трекер заказов с [демо](https://ergon73.github.io/fgip07-courierflow/).
 
-Завершённое обучение Zerocoder: «Профессия Вайбкодер» — 144 ч (2026); Python с ChatGPT — 138 ч (2026); «Промпт-инжиниринг» — 194 ч (2025); «Автоматизация на n8n» — 75 ч (2026).
+Завершённое обучение Zerocoder: «Профессия Вайбкодер» — 144 ч (2026); Python с ChatGPT — 138 ч (2026); «Промпт-инжиниринг» — 194 ч (2025); «Автоматизация на n8n» — 75 ч (2026); «Автоматизатор от 0 до ПРО 3.0» — 130 академических часов (03.08.2026).
 
 Обсудить задачу: [Telegram @ergon73](https://t.me/ergon73) · [georgy.belyanin@gmail.com](mailto:georgy.belyanin@gmail.com).
 
